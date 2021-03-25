@@ -8,11 +8,11 @@
           "version": 3
         },
         "targets": {
-          chrome:'60',
-          firefox:'60',
-          ie:'9',
-          safari:'10',
-          edge:'17'
+          "chrome":"60",
+          "firefox":"60",
+          "ie":"9",
+          "safari":"10",
+          "edge":"17"
         }
       }
     ]
